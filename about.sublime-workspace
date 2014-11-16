@@ -204,11 +204,16 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/mikkel/Documents/mikkelto"
+		"/Users/mikkel/Documents/mikkelto",
+		"/Users/mikkel/Downloads/dist/css",
+		"/Users/mikkel/Downloads/dist/fonts",
+		"/Users/mikkel/Downloads/dist/js"
 	],
 	"file_history":
 	[
+		"/Users/mikkel/Downloads/dist/css/bootstrap-theme.css",
 		"/Users/mikkel/Documents/mikkelto/index.html",
+		"/Users/mikkel/Downloads/dist/css/bootstrap.css",
 		"/Users/mikkel/Documents/mikkelto/about.sublime-project",
 		"/Users/mikkel/Documents/mikkelto/about.html",
 		"/Users/mikkel/Documents/myProject/myProject/index.html",
@@ -333,13 +338,11 @@
 		"/var/folders/55/6q0kf48x5s749076lk89tlsw0000gn/T/sublime-sftp-browse-1409746921/DWServer/Solutions/silhorko.net.dynamicweb.dk/Files/Templates/Filter/Industry_ProductFieldsFilter.cshtml",
 		"/var/folders/55/6q0kf48x5s749076lk89tlsw0000gn/T/sublime-sftp-browse-1409746935/DWServer/Solutions/silhorko.net.dynamicweb.dk/Files/Templates/Filter/Product_ProductFieldsFilter.cshtml",
 		"/var/folders/55/6q0kf48x5s749076lk89tlsw0000gn/T/sublime-sftp-browse-1409726905/Danish Agro - DitNyeWebsite/Danishagro.net.dynamicweb-cms.com/Files/Files/Integration/XML/website.xml",
-		"/var/folders/55/6q0kf48x5s749076lk89tlsw0000gn/T/sublime-sftp-browse-1409726131/Danish Agro - DitNyeWebsite/Danishagro.net.dynamicweb-cms.com/Files/Templates/Designs/Danish-Agro/Paragraph/DK_FindEmployeeOrDepartment_Front.cshtml",
-		"/var/folders/55/6q0kf48x5s749076lk89tlsw0000gn/T/sublime-sftp-browse-1409726383/Danish Agro - DitNyeWebsite/Danishagro.net.dynamicweb-cms.com/Files/Files/Integration/XML/website.xml",
-		"/var/folders/55/6q0kf48x5s749076lk89tlsw0000gn/T/sublime-sftp-browse-1409724055/Danish Agro - DitNyeWebsite/Danishagro.net.dynamicweb-cms.com/Files/Templates/Designs/Subsites/dk-tekstside.html"
+		"/var/folders/55/6q0kf48x5s749076lk89tlsw0000gn/T/sublime-sftp-browse-1409726131/Danish Agro - DitNyeWebsite/Danishagro.net.dynamicweb-cms.com/Files/Templates/Designs/Danish-Agro/Paragraph/DK_FindEmployeeOrDepartment_Front.cshtml"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
